@@ -1,0 +1,65 @@
+# Dataset (too large / sourced externally)
+nationaldatabaseofchildcareprices_small.xlsx
+
+# Assignment-named originals — clean copies committed instead
+Hoehler_Martin DSC640_Final.pdf
+Hoehler_Martin DSC640 Final.docx
+Hoehler_Martin DSC640 Milestone 1.docx
+Hoehler_Martin DSC640 Milestone 2.docx
+Hoehler_Martin DSC640 Milestone 4.docx
+Hoehler DSC640_Milestone_2.pdf
+Hoehler DSC640_Milestone3.pdf
+
+# Milestone / intermediate deliverables
+Child Care EDA.twb
+Child Care EDA.twbx
+Child Care mockups.twbx
+Milestone 3 - Child Care mockups.twbx
+Milestone 5 - Child Care.twbx
+Milestone 2 slides.pptx
+Milestone 3 slides.pptx
+Milestone 2 Infographic.pptx
+Milestone 3 Infographic.pptx
+Milestone 3 - Infographic.pdf
+Milestone 3 - Main.pdf
+Final - Main.pdf
+Final - Infographic.pdf
+Final slides.pptx
+Final Infographic.pptx
+Milestone 2 mockups.xlsx
+Presentation exhibits.xlsx
+Centre county.jpg
+
+# Technical guide and root-level SVG originals (SVGs committed under assets/)
+NationalDatabaseofChildcarePricesTechnicalGuide-2022.pdf
+/infant.svg
+/toddler.svg
+/preschool.svg
+
+# Draft files
+Draft_README-DSC640.md
+
+# Junk notebook
+Untitled.ipynb
+.ipynb_checkpoints/
+
+# Claude Code internals
+CLAUDE.md
+PROJECT_STATE.md
+NOTEBOOKS_PLAN.md
+.claude/
+
+# Windows
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+ehthumbs.db
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.env
+*.env
